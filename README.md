@@ -74,24 +74,3 @@ The main purpose of this project is to understand:
 ---
 
 # 📅 Weekly Development Progress
-
-## 🟢 Week 1 — ArrayList Storage
-
-### Objective
-
-Implement the basic Banking Management System using `ArrayList<Account>`.
-
-### Features
-
-- Create Account
-- Deposit Money
-- Withdraw Money
-- Check Balance
-- Search Account
-- Prevent Duplicate Account IDs
-- Exit
-
-### Technical Focus
-
-```java
-ArrayList<Account>
